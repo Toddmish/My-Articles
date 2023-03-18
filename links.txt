@@ -8,3 +8,8 @@ https://medium.com/@todiandimishtaku86/lagrange-multipliers-removing-some-confus
 Why the gradient is perpendicular to the contour curves
 
 https://medium.com/@todiandimishtaku86/why-the-gradient-is-perpendicular-to-the-contour-curves-f71cef427b1f
+
+
+Grub errors. Dual Boot. A solution that works in many situations without losing the files.
+
+https://medium.com/@toddymisht/grub-errors-a-solution-that-works-in-many-situations-d367c2454a74
