@@ -2,3 +2,9 @@
 Lagrange Multipliers: Removing some confusion related to geometric interpretations. Part I
 
 https://medium.com/@todiandimishtaku86/lagrange-multipliers-removing-some-confusion-related-to-geometric-interpretations-part-i-6f11bbb89aa7
+
+
+
+Why the gradient is perpendicular to the contour curves
+
+https://medium.com/@todiandimishtaku86/why-the-gradient-is-perpendicular-to-the-contour-curves-f71cef427b1f
