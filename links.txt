@@ -13,3 +13,7 @@ https://medium.com/@todiandimishtaku86/why-the-gradient-is-perpendicular-to-the-
 Grub errors. Dual Boot. A solution that works in many situations without losing the files.
 
 https://medium.com/@toddymisht/grub-errors-a-solution-that-works-in-many-situations-d367c2454a74
+
+
+My way of presenting Neural Network Nodes
+https://medium.com/@toddymisht/my-way-of-presenting-neural-network-nodes-f574cb80ea11
