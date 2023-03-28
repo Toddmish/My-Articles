@@ -10,10 +10,19 @@ Why the gradient is perpendicular to the contour curves
 https://medium.com/@todiandimishtaku86/why-the-gradient-is-perpendicular-to-the-contour-curves-f71cef427b1f
 
 
+
 Grub errors. Dual Boot. A solution that works in many situations without losing the files.
 
 https://medium.com/@toddymisht/grub-errors-a-solution-that-works-in-many-situations-d367c2454a74
 
 
+
 My way of presenting Neural Network Nodes
+
 https://medium.com/@toddymisht/my-way-of-presenting-neural-network-nodes-f574cb80ea11
+
+
+
+Level Curves, Contour Curves, Contour Maps and Level Surfaces
+
+https://medium.com/@toddymisht/level-curves-contour-curves-contour-maps-and-level-surfaces-c596e24bea52
